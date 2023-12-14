@@ -16,4 +16,4 @@ for i in range(len(numbers)):
         print('YES')
     else:
         print('NO')
-        set_n.add(numbers[i])
+    set_n.add(numbers[i])
